@@ -16,13 +16,13 @@ Para el desarrollo web, se nos presentaron diversas opciones de editores de cód
 
 ![](../images/web/Paso3.png)
 
-## **Paso 5: Revisión del tutorial de Git y GitHub**
+## **Paso 4: Revisión del tutorial de Git y GitHub**
 
 Revisé el tutorial proporcionado en clase, el cual me sirvió como guía para instalar y configurar Git, crear mi repositorio en GitHub y vincularlo con Visual Studio Code. Además, me permitió comprender cómo realizar modificaciones en mi página web desde mi computadora y subir los cambios a GitHub.
 
 [Ver Documento](../../pdf/Tutorial_Git.pdf)
 
-Paso 6: Uso de Git Bash para gestionar mi repositorio
+## **Paso 5: Uso de Git Bash para gestionar mi repositorio**
 
 Utilicé Git Bash para ejecutar los comandos necesarios para configurar Git, vincular mi repositorio local con GitHub y gestionar los cambios realizados en mi página web. A través de esta herramienta, pude familiarizarme con los comandos básicos de Git y comprender cómo se registran y envían los cambios desde mi computadora hacia el repositorio remoto.
 
@@ -38,11 +38,10 @@ git config --global user.email ""
 ```
 
 Imágenes de referencia:
-![](../images/web/Paso5.png)
 
-<div style="text-align: center;">
-    <img src="../images/web/Paso6.png">
-</div>
+![](../images/web/Paso5.png)
+![](../images/web/Paso6.png)
+
 
 ## **Paso 6: Edición y personalización de mi página web**
 
