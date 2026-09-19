@@ -45,4 +45,8 @@ Imágenes de referencia:
 
 ## **Paso 6: Edición y personalización de mi página web**
 
-Una vez vinculadas las herramientas, comencé a editar los archivos de mi página web desde Visual Studio Code. Inicié con la personalización de las secciones «About Me» y «About Sitio Web», modificando los códigos para incorporar mi información personal, fotografías y contenido necesario.
+Una vez vinculadas las herramientas, comencé a editar los archivos de mi página web desde Visual Studio Code. Inicié con la personalización de las secciones «About Me» y «About Sitio Web», modificando los códigos para incorporar mi información personal, imágenes, pdf y contenido necesario.
+
+**NOTA:**
+Las grabaciones y los recursos del moodle fueron muy útiles, solo tenía dudas de como adjuntar un pdf, y para resolver esa duda utilicé la IA, a la cual le pedí: cómo peudo adjunta un pdf y es así como pude adjuntar el documento del paso 4.
+
